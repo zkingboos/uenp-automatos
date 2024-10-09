@@ -1,5 +1,8 @@
+This software demonstrates how to create a finite automaton where you can test different states.
+It was developed as an activity for the "Introduction to the Theory of Computation" class in the "Licentiate in Computing" course.
+
 # Getting started
-To run this code you should create the `instruction.json` and the `input.csv` before executing this
+To run this code, you need to create two files: `instruction.json` and `input.csv`, before executing the program.
 
 ### Example
 > instruction.json
@@ -26,4 +29,5 @@ aaaaaaaaaaaa;0
 aaaaabaaaaa;1
 ```
 
-Run the project using `cargo run` or the respective file.
+Run the project using `cargo run` or the appropriate command for your environment.
+You can also find the program binaries in the [releases](https://github.com/zkingboos/uenp-automatos/releases) section.
